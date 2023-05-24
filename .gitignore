@@ -1,0 +1,5 @@
+.idea/
+.DS_Store
+key_storage/
+res_storage/
+node_modules/
